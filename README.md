@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nutshell-Lauren
+- 👋 Hi, I’m @LaurenCatt
 - 👀 I’m interested in ... art, design, reading, and coding!
 - 🌱 I’m currently learning ... how to code!
 - 💞️ I’m looking to collaborate on ... beginner projects!
